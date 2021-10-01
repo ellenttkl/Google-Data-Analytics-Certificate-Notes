@@ -1,1 +1,22 @@
 
+The DIV error happens when a formula is trying to divide a value in a cell by zero or by an empty cell.
+
+ERROR tells us the formula can't be interpreted as it is input. 
+
+The N/A error tells you that the data in your formula can't be found by the spreadsheet.This error most often occurs when using functions such as VLOOKUP,
+which searches for a certain value in a column to return a corresponding piece of information.
+
+A NAME error can happen when a formula's name isn't recognized or understood.     
+
+NUM error tells us that a formula's calculation can't be performed as specified by the data. 
+
+VALUE error can indicate a problem with a formula or referenced cells. 
+
+REF error, which often comes up when cells being referenced in a formula have been deleted, thus making the formula unable to perform the calculation
+
+
+
+there are three things you can focus on that will help you stay on task.
+One, who are the primary and secondary stakeholders? 
+Two who is managing the data? 
+And three where can you go for help? 
